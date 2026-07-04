@@ -1,0 +1,42 @@
+[
+  {
+    "product_name": "Apple Watch",
+    "product_price": 2000,
+    "product_description": "This is an Apple Watch.",
+    "description": "The Apple Watch is a stylish and feature-rich smartwatch designed to help you stay connected, active, and healthy throughout your day. It offers advanced fitness tracking, heart rate monitoring, sleep analysis, and workout recording for a wide range of activities. With seamless smartphone integration, you can receive notifications, answer calls, reply to messages, and access your favorite apps directly from your wrist. Its premium design, bright display, and durable construction make it suitable for both everyday wear and special occasions. Whether you are exercising, working, or relaxing, the Apple Watch delivers convenience, performance, and modern technology in one compact device.",
+    "product_image": "images/apple.jfif",
+    "product_category": "Watches"
+  },
+  {
+    "product_name": "Samsung Galaxy Watch",
+    "product_price": 1800,
+    "product_description": "This is a Samsung Galaxy Watch.",
+    "description": "The Samsung Galaxy Watch combines elegant design with powerful smart features to support your daily lifestyle. It includes accurate fitness tracking, heart rate monitoring, sleep insights, stress management, and multiple sports modes for better health awareness. The watch connects effortlessly with compatible smartphones, allowing you to receive notifications, answer calls, control music, and use various applications without taking out your phone. Its long-lasting battery, durable construction, and vibrant display make it an excellent companion for work, travel, and fitness activities. Comfortable to wear all day, it delivers reliability, style, and advanced functionality for modern users.",
+    "product_image": "images/samsung.jfif",
+    "product_category": "Watches"
+  },
+  {
+    "product_name": "Sony Headphones",
+    "product_price": 1500,
+    "product_description": "This is a pair of Sony wireless headphones.",
+    "description": "The Sony wireless headphones provide exceptional sound quality with deep bass, clear vocals, and balanced audio for an immersive listening experience. Designed with soft ear cushions and an adjustable headband, they ensure long-lasting comfort during extended listening sessions. The wireless connectivity offers freedom of movement, while the built-in microphone allows for convenient hands-free calling. A long battery life keeps your music playing throughout the day, making them ideal for travel, work, gaming, and entertainment. Their lightweight yet durable design, combined with reliable performance and premium audio technology, makes these headphones a great choice for everyday use.",
+    "product_image": "images/sony.jfif",
+    "product_category": "Headphones"
+  },
+  {
+    "product_name": "Dell Laptop",
+    "product_price": 55000,
+    "product_description": "This is a Dell laptop with Intel Core i5 processor.",
+    "description": "The Dell laptop is built to deliver reliable performance for students, professionals, and everyday users. Powered by an Intel Core i5 processor, it handles multitasking, office applications, web browsing, and entertainment with ease. Its high-quality display provides sharp visuals, while the comfortable keyboard enhances productivity during long working hours. Multiple connectivity options, including USB ports, Wi-Fi, and Bluetooth, make it easy to connect your devices and accessories. With durable construction, efficient cooling, and dependable battery life, this laptop offers excellent value for work, study, video streaming, and light creative tasks in a portable design.",
+    "product_image": "images/dell.jfif",
+    "product_category": "Laptops"
+  },
+  {
+    "product_name": "Canon Camera",
+    "product_price": 45000,
+    "product_description": "This is a Canon DSLR camera.",
+    "description": "The Canon DSLR camera is designed for photography enthusiasts and professionals seeking high-quality images and reliable performance. It captures sharp photos with rich colors and fine details, making it suitable for portraits, landscapes, wildlife, and event photography. Advanced autofocus, multiple shooting modes, and high-resolution image quality help users achieve impressive results in different lighting conditions. The ergonomic grip ensures comfortable handling during extended shoots, while compatibility with a wide range of lenses provides creative flexibility. Whether you are learning photography or expanding your professional skills, this camera delivers excellent image quality, versatility, and dependable performance.",
+    "product_image": "images/canon.jfif",
+    "product_category": "Cameras"
+  }
+]
